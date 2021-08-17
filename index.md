@@ -1,3 +1,0 @@
-# PureLinePrompt
-
-Test page.
